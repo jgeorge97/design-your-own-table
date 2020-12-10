@@ -12,5 +12,7 @@ Technologies used:
 - HTML
 - CSS
 - jQuery
+- Bootstrap 4
+- Font Awesome Icons
 
 Images edited using GIMP
