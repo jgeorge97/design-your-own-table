@@ -1,0 +1,39 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+  }
+
+.left {
+    left: 0;
+}
+
+.right {
+    right: 0;
+}
+
+#preview img {
+    position: absolute;
+    left: 12px;
+    top: 48px;
+    width: 90%;
+  }
+  
+#choiceContainer .title {
+    text-transform: capitalize;
+}
+
+#selector img {
+    max-width: 25%;
+    margin: 8px;
+    padding: 4px;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.title{
+    text-transform: capitalize;
+}

@@ -1,0 +1,34 @@
+{
+    "top":{
+        "z-index":"3",
+        "images": [
+            "res/top-original.png",
+            "res/top-brown.png",
+            "res/top-silver.png"
+        ]
+    },
+    "top-base":{
+        "z-index":"2",
+        "images": [
+            "res/top_base-original.png",
+            "res/top_base-brown.png",
+            "res/top_base-silver.png"
+        ]
+    },
+    "drawer":{
+        "z-index":"1",
+        "images": [
+            "res/drawer-original.png",
+            "res/drawer-brown.png",
+            "res/drawer-silver.png"
+        ]
+    },
+    "leg":{
+        "z-index":"0",
+        "images": [
+            "res/leg-original.png",
+            "res/leg-brown.png",
+            "res/leg-silver.png"
+        ]
+    }
+}
